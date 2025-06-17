@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # home_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter_dashboard_app
+>>>>>>> fadf23c9ace15723a2d59570e3322758f2e75685
